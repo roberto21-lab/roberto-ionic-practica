@@ -1,0 +1,27 @@
+
+.hola{
+  text-align: center;
+  background-color: cyan;
+  width: 40%;
+  height: 100px;
+  
+  
+}
+.btn-one-container{
+  display: flex;
+  justify-self: center;
+}
+
+ion-button{
+  width: 30%;
+  height: 50px;
+  // border: darkblue solid 2px;
+  --border-radius: 30px;
+  // background-color: darkgray;
+  --background: black;
+  box-shadow: 0px 0px 0px 0px gray;
+  margin-top: 60px;
+  margin-bottom: 80px;
+  display: flex;
+  justify-self: flex-end;
+}
